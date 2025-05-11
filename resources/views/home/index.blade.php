@@ -1,1 +1,1 @@
-<h1>Hello i'm Index.html</h1>
+<h1>Hello , {{$firstName}} {{$lastName}} , Welcome to the index page!</h1>
